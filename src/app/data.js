@@ -1,4 +1,4 @@
-export const projects = [
+export const projects = [ 
   {
     title: "CFT",
     description: `CFT is an integrated platform built to streamline logistics
