@@ -74,7 +74,7 @@ export default function Home() {
 			id="home"
 		>
 			<Image
-				src="/images/11000.jpeg"
+				src="/images/116.jpeg"
 				fill={true}
 				alt="background"
 				priority={true}
