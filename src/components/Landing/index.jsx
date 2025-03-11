@@ -74,7 +74,7 @@ export default function Home() {
 			id="home"
 		>
 			<Image
-				src="/images/110.png"
+				src="/images/11000.jpeg"
 				fill={true}
 				alt="background"
 				priority={true}
@@ -82,8 +82,8 @@ export default function Home() {
 			<div className={styles.sliderContainer}>
 				<div ref={slider} className={styles.slider}>
 					<div>
-						<p ref={firstText}>Ashik Ben—</p>
-						<p ref={secondText}>Ashik Ben—</p>
+						<p ref={firstText}>Subodh Meshram </p>
+						{/* <p ref={secondText}>Meshram</p> */}
 					</div>
 				</div>
 			</div>
@@ -117,7 +117,7 @@ export default function Home() {
 					/>
 				</svg>
 				{/* <p>Freelance</p> */}
-				<p>Web Developer & Graphic Designer</p>
+				<p>Fullstack Web Developer</p>
                 {/* <p>India: {time}</p> */}
 			</div>
 		</motion.main>

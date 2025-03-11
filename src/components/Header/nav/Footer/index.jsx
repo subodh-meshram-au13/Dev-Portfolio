@@ -11,7 +11,7 @@ export default function index() {
     <div className={styles.footer}>
       <Magnetic>
         <div className={styles.el}>
-        <a href='https://www.linkedin.com/in/ashik-benny/' target='_blank'>LinkedIn</a>
+        <a href='https://www.linkedin.com/in/subodh-meshram-64202a109/' target='_blank'>LinkedIn</a>
         <div className={styles.indicator}></div>
         </div>
       </Magnetic>

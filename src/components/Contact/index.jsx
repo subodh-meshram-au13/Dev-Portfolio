@@ -23,7 +23,7 @@ export default function index() {
                             <Image 
                             fill={true}
                             alt={"image"}
-                            src={`/images/111.png`}
+                            src={`/images/111.jpeg`}
                             />
                         </div>
                         <h2>Let's work together</h2>
@@ -39,13 +39,13 @@ export default function index() {
                 </div>
                 <div className={styles.nav}>
                         <div className={styles.button}>
-                            <p>ashikmben@gmail.com</p>
+                            <p>subodh.meshram4@gmail.com</p>
                         </div>
                         <div className={styles.button}>
-                            <p>079-600-54-504</p>
+                            <p>09086172192</p>
                         </div>
                         <div className={styles.button}>
-                            <p>12 Aspall Close, Redditch, Birmingham, UK, B97 4PZ</p>
+                            <p>Sendai Miyagi,Japan</p>
                         </div>
                 </div>
                 <div className={styles.info}>

@@ -5,7 +5,7 @@ import { slideUp, slideIn } from "./animation";
 import Magnetic from "../../common/Magnetic";
 
 export default function index() {
-  const phrase = `Web developer with 3.5 years of experience in frontend development using Angular, React, and Next.js, with a fundamental knowledge of backend technologies like Node.js and Nest.js. Experienced in seamless frontend-backend integration and graphic design, creating visually engaging digital content.`;
+  const phrase = `Web developer with 3 years of experience in frontend development using  React,PHP,and Next.js, with a fundamental knowledge of backend technologies like Node.js. Experienced in seamless frontend-backend integration and graphic design, creating visually engaging digital content.`;
   const description = useRef(null);
   const isInView = useInView(description);
 
@@ -106,53 +106,45 @@ export default function index() {
 
         <div className={styles.bodySecond}>
             <h4>
-            Software Engineer | NewAgeSys Solutions, India | Aug 2021 - Dec 2024
+            System Development | Andex, Japan | April 2023 - Present
             </h4>
             <ul>
             <li>
-                Developed and maintained Angular/React/Next applications for more than 8
+                Developed and maintained Php applications for more than 4
                 clients.
             </li>
             <li>
                 Developed and deployed web applications resulting in a 30%
-                increase in client satisfaction with 3 Client testimonials and 1
-                Client Google review.
+                increase in client satisfaction with 2 Client 
             </li>
             <li>
                 Experience in working with RESTFUL Web Services and implementing
                 RESTFUL APIs.
             </li>
-            <li>Understanding of UI/UX principles, converting Figma into HTML and Css.</li>
+            <li>Understanding of UI/UX principles, converting data into imageFormat.</li>
             <li>
-                Worked on GIT as a version control and Used JIRA for bug tracking.
+                Worked on GIT as a version control and Used Docker.
             </li>
             <li>
-                Designed and developed the application using Agile Scrum methodology (Jira)
-                by breaking down the project into several sprints.
+                Designed and developed the application using Tailwind
             </li>
-            <li>
-                Improved application performance by 25% through code optimization
-                and refactoring.
-            </li>
-            <li>
-                Implemented Custom Angular/React Components to increase productivity.
-            </li>
+          
             </ul>
         </div>
 
         <div className={styles.bodySecond}>
             <h4>
-            Graphic Designer | I Systems, India | Feb 2018 - Jan 2020
+            Web developer | Andex (Part-time), japan | Oct 2021 - April 2023
             </h4>
             <ul>
             <li>
-                Experienced in designing brochures, business cards, boards, magazines, and product covers.
+                Experienced in designing a Calculator as a Small Project Using html,Css,javascript.
             </li>
             <li>
-                Skilled in creating single-page websites using WordPress.
+                Skilled in creating single-page websites using WordPress and Logic and algorithm
             </li>
             <li>
-                Proficient in crafting visually engaging and professional designs using CorelDRAW and Canva.
+                Proficient in crafting visually engaging and professional designs Tailwind.
             </li>
             
             </ul>
@@ -160,17 +152,17 @@ export default function index() {
 
         <div className={styles.bodySecond}>
             <h4>
-            Junior Graphic Designer | Impressive Designs, India | Dec 2016 - Dec 2017
+            FullStack Developer | Freelancing, India |July 2019 - july 2021 (Covid)
             </h4>
             <ul>
             <li>
-                Creative and detail-oriented designer specializing in posters, ID cards, logos, and social media ads.
+                Creative web-site using React,MogoDb,Sql
             </li>
             <li>
-                Experienced in delivering visually compelling and impactful designs.
+                Learned NodeJs,Express, and  implement  In project
             </li>
             <li>
-            •	Proficient in using CorelDRAW and Canva for professional design work.
+                Used  Webserver Package Like XAMPP and WAMP
             </li>
             
             </ul>
