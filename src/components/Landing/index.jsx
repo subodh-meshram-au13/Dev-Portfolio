@@ -82,8 +82,8 @@ export default function Home() {
 			<div className={styles.sliderContainer}>
 				<div ref={slider} className={styles.slider}>
 					<div>
-						<p ref={firstText}>Subodh_</p>
-						<p ref={secondText}>Meshram</p>
+						{/* <p ref={firstText}>Subodh_</p>
+						<p ref={secondText}>Meshram</p> */}
 					</div>
 				</div>
 			</div>
