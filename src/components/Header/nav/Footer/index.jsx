@@ -23,7 +23,7 @@ export default function index() {
       </Magnetic> */}
       <Magnetic>
         <div className={styles.el}>
-        <a href='https://drive.google.com/file/d/1RVNAsZ936k-qE1gcOmQu6iwuSQ8_CZeH/view?usp=sharing' target='_blank'>Resume</a>
+        <a href='https://' target='_blank'>Resume</a>
         <div className={styles.indicator}></div>
         </div>
       </Magnetic>
