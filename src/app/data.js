@@ -1,6 +1,6 @@
 export const projects = [ 
   {
-    title: "Staberry Portal",
+    title: "Strawberry Portal",
     description: `Strawberry Project is an online portal designed to be simple, user-friendly, and efficient. 
     It helps users access information and perform tasks easily, with a clean and organized layout. 
     The portal is built to work smoothly across different devices and ensures a seamless experience. It is designed to be reliable, easy to use, and adaptable for future improvements..`,
@@ -40,7 +40,7 @@ export const projects = [
     Users can add items to their cart, make secure purchases, and track their orders effortlessly. 
     It is designed to be simple, fast, and easy to use for anyone looking to buy fitness equipment online`,
     description2: `Tech Stack: ReactJs, TailwindCSS, Nodejs,expressMongoDB.`,
-    src: "gymportal.jfif",
+    src: "gymportal.jpg",
     link: "",
     color: "#ffe3e1",
   },
