@@ -15,12 +15,12 @@ export default function index() {
         <div className={styles.indicator}></div>
         </div>
       </Magnetic>
-      {/* <Magnetic>
+      <Magnetic>
         <div className={styles.el}>
-        <a href='https://github.com/ashBenny' target='_blank'>GitHub</a>
+        <a href='https://drive.google.com/file/d/1w5ughKGaIaQTJMJG0fHY6jCrgeD-IgCf/view?usp=sharing' target='_blank'>GitHub</a>
         <div className={styles.indicator}></div>
         </div>
-      </Magnetic> */}
+      </Magnetic>
       <Magnetic>
         <div className={styles.el}>
         <a href='https://' target='_blank'>Resume</a>
