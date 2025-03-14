@@ -83,6 +83,7 @@ export default function index() {
 
     <div ref={description} className={styles.description} id="about">
       <div className={styles.bodyFirst}>
+        <h2 >Subodh Meshram</h2>
         <p>
           {phrase.split(" ").map((word, index) => (
             <span key={index} className={styles.mask}>
