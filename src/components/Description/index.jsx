@@ -135,7 +135,7 @@ export default function index() {
 
         <div className={styles.bodySecond}>
             <h4>
-            Web developer | Andex (Part-time), japan | Oct 2021 - April 2023
+            Web developer | Andex (Part-time), japan | Oct 2021 - March 2023
             </h4>
             <ul>
             <li>
