@@ -5,7 +5,7 @@ import { slideUp, slideIn } from "./animation";
 import Magnetic from "../../common/Magnetic";
 
 export default function index() {
-  const phrase = `Web developer with 3 years of experience in frontend development using  React,PHP,and Next.js, with a fundamental knowledge of backend technologies like Node.js. Experienced in seamless frontend-backend integration and graphic design, creating visually engaging digital content.`;
+  const phrase = `Web developer with 3+ years of experience in frontend development using  React,PHP,and Next.js, with a fundamental knowledge of backend technologies like Node.js. Experienced in seamless frontend-backend integration and graphic design, creating visually engaging digital content.`;
   const description = useRef(null);
   const isInView = useInView(description);
 
